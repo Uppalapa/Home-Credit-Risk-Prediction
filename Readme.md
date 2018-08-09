@@ -19,33 +19,32 @@
 
 * installments_payment: payment history for previous loans at Home Credit. There is one row for every made payment and one row for every missed payment.
 
-### Worked on 122 columns and 400,000 rows
+##### Worked on 122 columns and 400,000 rows
 ## 1.2 Import Required Packages
-### -Matplotlib
-### -Numpy
-### -Pandas
-### -Scipy
-####      psi
-####      polygamma
-####      newton
-####      gamma
-### -Sklearn
-####      LabelEncoder
-####      cross_val_score
-####      GaussianNB
-####      SelectFromModel
-####      accuracy_score
-####      RandomForestClassifier
-####      KNeighborsClassifier
-####      LogisticRegression
-####      StandardScaler
-### -seaborne
-### -Lightgbm
-### -XGBoost
-####      XGBClassifier
-####      plot_importance
-### -OS
-### -pymc3
+-Matplotlib
+-Pandas
+-Scipy
+      psi
+      polygamma
+      newton
+      gamma
+-Sklearn
+      LabelEncoder
+      cross_val_score
+      GaussianNB
+      SelectFromModel
+      accuracy_score
+      RandomForestClassifier
+      KNeighborsClassifier
+      LogisticRegression
+      StandardScaler
+-seaborne
+-Lightgbm
+-XGBoost
+      XGBClassifier
+      plot_importance
+-OS
+-pymc3
 
 # 2. Exploratory Data Analysis
 
@@ -53,6 +52,12 @@
 # 4. Handling Missing Data
 # 5. Plot posterior - MLE & MCMC
 # 6. Feature Importance
+## 6.1 XGB Classifier
+<img src="https://user-images.githubusercontent.com/25045759/29498307-0ac77adc-85c7-11e7-8801-c49982143a0f.jpg" />
+## 6.2 Light gbm
+<img src="https://user-images.githubusercontent.com/25045759/29498307-0ac77adc-85c7-11e7-8801-c49982143a0f.jpg" />
+
+
 # 7. Modelling
 ## 7.1 Model Accuracy Comparision
 ## 7.2 Choosing the best model
