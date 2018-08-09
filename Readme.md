@@ -63,13 +63,13 @@
 # 4. Handling Missing Data
 Handeled both test and train data
 * Handled missing float values using mean
-*  Handled missing string values using mode
+* Handled missing string values using mode
 # 5. Plot posterior - MLE & MCMC
-MLE -<img width="225" alt="mcmc" src=>
+#### MLE 
 
 <img width="263" src="https://user-images.githubusercontent.com/42013395/43910771-b97623c4-9bcb-11e8-8200-3d8e9a89775c.PNG"/>
 
-MCMC -
+#### MCMC -
 <img width="263" src="https://user-images.githubusercontent.com/42013395/43910772-b983574c-9bcb-11e8-9b95-9a2dd9f3fc5c.PNG"/>
 
 # 6. Feature Importance
@@ -79,7 +79,9 @@ MCMC -
 <img width="600" height="600" src="https://user-images.githubusercontent.com/42013395/43896489-fc7d2aca-9ba6-11e8-8854-7426c5e2c071.PNG" />
 # 7. Modelling
 ## 7.1 Model Accuracy Comparision
+Probability accury for xgboost - 92%
 ## 7.2 Choosing the best model
+Selected XGBoost Classifier
 # 8. Prediction
 <img src="https://user-images.githubusercontent.com/42013395/43896491-fca404d8-9ba6-11e8-9061-bf40d07b93d2.png" width="600" height="600" align="center"  />
 # 9. Conclusion
