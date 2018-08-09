@@ -73,9 +73,9 @@ Handeled both test and train data
 <img width="263" src="https://user-images.githubusercontent.com/42013395/43910772-b983574c-9bcb-11e8-9b95-9a2dd9f3fc5c.PNG"/>
 
 # 6. Feature Importance
-## 6.1 XGB Classifier
-<img src="https://user-images.githubusercontent.com/42013395/43896487-fc587194-9ba6-11e8-9ce5-059730d36072.png" width="600" height="600" align="center"  />
-## 6.2 Light gbm
+### 6.1 XGB Classifier
+<img src="https://user-images.githubusercontent.com/42013395/43896487-fc587194-9ba6-11e8-9ce5-059730d36072.png" width="600" height="600" align="center"/>
+### 6.2 Light gbm
 <img width="600" height="600" src="https://user-images.githubusercontent.com/42013395/43896489-fc7d2aca-9ba6-11e8-8854-7426c5e2c071.PNG" />
 # 7. Modelling
 ## 7.1 Model Accuracy Comparision
