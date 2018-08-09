@@ -53,7 +53,7 @@
 # 5. Plot posterior - MLE & MCMC
 # 6. Feature Importance
 ## 6.1 XGB Classifier
-<img src="https://user-images.githubusercontent.com/25045759/29498307-0ac77adc-85c7-11e7-8801-c49982143a0f.jpg" />
+<img src="https://user-images.githubusercontent.com/42013395/43896487-fc587194-9ba6-11e8-9ce5-059730d36072.png" width="400" height="400" align="right"  />
 ## 6.2 Light gbm
 <img src="https://user-images.githubusercontent.com/25045759/29498307-0ac77adc-85c7-11e7-8801-c49982143a0f.jpg" />
 
@@ -63,3 +63,18 @@
 ## 7.2 Choosing the best model
 # 8. Prediction
 # 9. Conclusion
+
+
+![of loans unpaid by name_education_type](https://user-images.githubusercontent.com/42013395/43896481-fbf1a914-9ba6-11e8-84ff-0baf0fb64ac8.png)
+![of loans unpaid by name_housing_type](https://user-images.githubusercontent.com/42013395/43896483-fc11184e-9ba6-11e8-9dbc-b6f43903150c.png)
+![of loans unpaid by occupation_type](https://user-images.githubusercontent.com/42013395/43896484-fc23c7f0-9ba6-11e8-9a26-8e1c77402912.png)
+![of loans unpaid by organization_type](https://user-images.githubusercontent.com/42013395/43896485-fc3575a4-9ba6-11e8-816f-827e79da4d7f.png)
+![corr_heatmap](https://user-images.githubusercontent.com/42013395/43896486-fc49b00a-9ba6-11e8-822d-9c4d08fd96b1.png)
+
+<img width="263" alt="kde_plots" src="https://user-images.githubusercontent.com/42013395/43896488-fc6840e2-9ba6-11e8-8f92-83d3acd9bf55.PNG">
+<img width="519" alt="lightgbm_feature_imp" src="https://user-images.githubusercontent.com/42013395/43896489-fc7d2aca-9ba6-11e8-8854-7426c5e2c071.PNG">
+![missing values for each column](https://user-images.githubusercontent.com/42013395/43896490-fc8e69de-9ba6-11e8-8ea7-edc9e5fe8762.png)
+![ratio_target](https://user-images.githubusercontent.com/42013395/43896491-fca404d8-9ba6-11e8-9061-bf40d07b93d2.png)
+<img width="491" alt="target_edu_comp" src="https://user-images.githubusercontent.com/42013395/43896492-fcb57f9c-9ba6-11e8-8677-9a798aae588b.PNG">
+<img width="477" alt="target_housing_cmp" src="https://user-images.githubusercontent.com/42013395/43896493-fcca1a2e-9ba6-11e8-8f4b-5bb26bc6bd60.PNG">
+
