@@ -6,7 +6,7 @@
 # 2. Exploratory Data Analysis
 # 3. Missing Data Observations
 # 4. Handling Missing Data
-# 5. MLE & MCMC
+# 5. Plot posterior - MLE & MCMC
 # 6. Feature Importance
 # 7. Modelling
 ## 7.1 Model Accuracy Comparision
