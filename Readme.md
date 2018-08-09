@@ -24,33 +24,47 @@
 * Matplotlib
 * Pandas
 * Scipy
-      psi
-      polygamma
-      newton
-      gamma
+      * psi
+      * polygamma
+      * newton
+      * gamma
 * Sklearn
-      LabelEncoder
-      cross_val_score
-      GaussianNB
-      SelectFromModel
-      accuracy_score
-      RandomForestClassifier
-      KNeighborsClassifier
-      LogisticRegression
-      StandardScaler
+      * LabelEncoder
+      * cross_val_score
+      * GaussianNB
+      * SelectFromModel
+      * accuracy_score
+      * RandomForestClassifier
+      * KNeighborsClassifier
+      * LogisticRegression
+      * StandardScaler
 * seaborne
 * Lightgbm
 * XGBoost
-      XGBClassifier
-      plot_importance
+      * XGBClassifier
+      * plot_importance
 * OS
 * pymc3
 
-# 2. Exploratory Data Analysis
+# 2. Exploratory Data Analysis\
+### Pearson correlation plot
+
+### Correlation plot
+
 
 # 3. Missing Data Observations
+
 # 4. Handling Missing Data
+Handeled both test and train data
+* Handled missing float values using mean
+*  Handled missing string values using mode
 # 5. Plot posterior - MLE & MCMC
+MLE -
+
+MCMC -
+
+
+
 # 6. Feature Importance
 ## 6.1 XGB Classifier
 <img src="https://user-images.githubusercontent.com/42013395/43896487-fc587194-9ba6-11e8-9ce5-059730d36072.png" width="600" height="600" align="center"  />
