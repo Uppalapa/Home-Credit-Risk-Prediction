@@ -75,7 +75,7 @@ MCMC -
 <img src="https://user-images.githubusercontent.com/42013395/43896487-fc587194-9ba6-11e8-9ce5-059730d36072.png" width="600" height="600" align="center"  />
 ## 6.2 Light gbm
 <img width="600" height="600" src="https://user-images.githubusercontent.com/42013395/43896489-fc7d2aca-9ba6-11e8-8854-7426c5e2c071.PNG" />
-<img src="https://user-images.githubusercontent.com/25045759/29498307-0ac77adc-85c7-11e7-8801-c49982143a0f.jpg" />
+
 
 
 # 7. Modelling
