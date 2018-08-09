@@ -21,14 +21,14 @@
 
 ##### Worked on 122 columns and 400,000 rows
 ## 1.2 Import Required Packages
--Matplotlib
--Pandas
--Scipy
+* Matplotlib
+* Pandas
+* Scipy
       psi
       polygamma
       newton
       gamma
--Sklearn
+* Sklearn
       LabelEncoder
       cross_val_score
       GaussianNB
@@ -38,13 +38,13 @@
       KNeighborsClassifier
       LogisticRegression
       StandardScaler
--seaborne
--Lightgbm
--XGBoost
+* seaborne
+* Lightgbm
+* XGBoost
       XGBClassifier
       plot_importance
--OS
--pymc3
+* OS
+* pymc3
 
 # 2. Exploratory Data Analysis
 
