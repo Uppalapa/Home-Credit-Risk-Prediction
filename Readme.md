@@ -55,23 +55,22 @@
 ### Pearson correlation plot
 ![corr_heatmap](https://user-images.githubusercontent.com/42013395/43896486-fc49b00a-9ba6-11e8-822d-9c4d08fd96b1.png)
 
-<img width="263" alt="kde_plots" src="https://user-images.githubusercontent.com/42013395/43896488-fc6840e2-9ba6-11e8-8f92-83d3acd9bf55.PNG">
+<img width="263" alt="kde_plots" src="https://user-images.githubusercontent.com/42013395/43896488-fc6840e2-9ba6-11e8-8f92-83d3acd9bf55.PNG" />
 
 
 # 3. Missing Data Observations
-<img width="263" src="https://user-images.githubusercontent.com/42013395/43896490-fc8e69de-9ba6-11e8-8ea7-edc9e5fe8762.png")
+<img width="263" src="https://user-images.githubusercontent.com/42013395/43896490-fc8e69de-9ba6-11e8-8ea7-edc9e5fe8762.png" />
 # 4. Handling Missing Data
 Handeled both test and train data
 * Handled missing float values using mean
 *  Handled missing string values using mode
 # 5. Plot posterior - MLE & MCMC
-MLE -
-<img width="263" src=" ">
+MLE -<img width="225" alt="mcmc" src=>
+
+<img width="263" src="https://user-images.githubusercontent.com/42013395/43910771-b97623c4-9bcb-11e8-8200-3d8e9a89775c.PNG"/>
 
 MCMC -
-<img width="263" src=" ">
-
-
+<img width="263" src="https://user-images.githubusercontent.com/42013395/43910772-b983574c-9bcb-11e8-9b95-9a2dd9f3fc5c.PNG"/>
 
 # 6. Feature Importance
 ## 6.1 XGB Classifier
