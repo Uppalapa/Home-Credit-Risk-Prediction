@@ -2,7 +2,7 @@
 # Home Credit Defaulter Prediction
 # 1. Introduction
 ## 1.1 About Data 
-### (Data Source - <a>href="https://www.kaggle.com/c/home-credit-default-risk" </a> , Data Size - 3GB)
+### (Data Source - <a>"https://www.kaggle.com/c/home-credit-default-risk/data" </a> , Data Size - 3GB)
 ## 1.2 Import Required Packages
 # 2. Exploratory Data Analysis
 # 3. Missing Data Observations
