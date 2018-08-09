@@ -24,7 +24,7 @@
 * Matplotlib
 * Pandas
 * Scipy
-      * psi
+** psi
       * polygamma
       * newton
       * gamma
