@@ -3,6 +3,7 @@
 # 1. Introduction
 ## 1.1 About Data 
 ### (Data Source - <a href="https://www.kaggle.com/c/home-credit-default-risk/data">DATA LINK </a> , Data Size - 3GB)
+### (<a href="https://drive.google.com/open?id=13fWkR-mqlqYcG9uv1-ABebXwP7kvuH1v">DATA</a>,  <a href="https://drive.google.com/drive/folders/1FdJc3mLMc-3hTXCkW4toVBoxi0mCQ-0U?usp=sharing">OUTPUT FILE</a>)
 ## 1.1 About Data
 
 * application_train/application_test: It is the main training and testing data with information about each loan application at Home Credit. Every loan is identified by the column SK_ID_CURR. Traing data set has the column Target which specifies if the loan was repaid or not. 0 indicated loan was repaid. 1 - not repaid (Bad debts) 
@@ -24,25 +25,25 @@
 * Matplotlib
 * Pandas
 * Scipy
-** psi
-      * polygamma
-      * newton
-      * gamma
+*  _psi
+*  _polygamma
+* _newton
+* _gamma
 * Sklearn
-      * LabelEncoder
-      * cross_val_score
-      * GaussianNB
-      * SelectFromModel
-      * accuracy_score
-      * RandomForestClassifier
-      * KNeighborsClassifier
-      * LogisticRegression
-      * StandardScaler
+* _LabelEncoder
+* _cross_val_score
+* _GaussianNB
+* _SelectFromModel
+* _accuracy_score
+* _RandomForestClassifier
+* _KNeighborsClassifier
+* _LogisticRegression
+* _StandardScaler
 * seaborne
 * Lightgbm
 * XGBoost
-      * XGBClassifier
-      * plot_importance
+* _XGBClassifier
+* _plot_importance
 * OS
 * pymc3
 
@@ -58,15 +59,17 @@
 
 
 # 3. Missing Data Observations
-![missing values for each column](https://user-images.githubusercontent.com/42013395/43896490-fc8e69de-9ba6-11e8-8ea7-edc9e5fe8762.png)
+<img width="263" src="https://user-images.githubusercontent.com/42013395/43896490-fc8e69de-9ba6-11e8-8ea7-edc9e5fe8762.png")
 # 4. Handling Missing Data
 Handeled both test and train data
 * Handled missing float values using mean
 *  Handled missing string values using mode
 # 5. Plot posterior - MLE & MCMC
 MLE -
+<img width="263" src=" ">
 
 MCMC -
+<img width="263" src=" ">
 
 
 
@@ -75,9 +78,6 @@ MCMC -
 <img src="https://user-images.githubusercontent.com/42013395/43896487-fc587194-9ba6-11e8-9ce5-059730d36072.png" width="600" height="600" align="center"  />
 ## 6.2 Light gbm
 <img width="600" height="600" src="https://user-images.githubusercontent.com/42013395/43896489-fc7d2aca-9ba6-11e8-8854-7426c5e2c071.PNG" />
-
-
-
 # 7. Modelling
 ## 7.1 Model Accuracy Comparision
 ## 7.2 Choosing the best model
@@ -86,4 +86,3 @@ MCMC -
 # 9. Conclusion
 <img width="491" alt="target_edu_comp" src="https://user-images.githubusercontent.com/42013395/43896492-fcb57f9c-9ba6-11e8-8677-9a798aae588b.PNG" />
 <img width="477" alt="target_housing_cmp" src="https://user-images.githubusercontent.com/42013395/43896493-fcca1a2e-9ba6-11e8-8f4b-5bb26bc6bd60.PNG" />
-
