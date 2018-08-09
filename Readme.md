@@ -53,7 +53,7 @@
 # 5. Plot posterior - MLE & MCMC
 # 6. Feature Importance
 ## 6.1 XGB Classifier
-<img src="https://user-images.githubusercontent.com/42013395/43896487-fc587194-9ba6-11e8-9ce5-059730d36072.png" width="400" height="400" align="right"  />
+<img src="https://user-images.githubusercontent.com/42013395/43896487-fc587194-9ba6-11e8-9ce5-059730d36072.png" width="600" height="600" align="center"  />
 ## 6.2 Light gbm
 <img src="https://user-images.githubusercontent.com/25045759/29498307-0ac77adc-85c7-11e7-8801-c49982143a0f.jpg" />
 
