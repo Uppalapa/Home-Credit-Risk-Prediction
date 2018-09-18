@@ -1,10 +1,12 @@
 
-# Home Credit Defaulter Prediction
+# Kaggle Challenge 2018 - Home Credit Defaulter Prediction
+Link to the challenge - <a href="https://www.kaggle.com/c/home-credit-default-risk"> </a>
 # 1. Introduction
-## 1.1 About Data 
+Home credit is an international non-bank financial institution focuses on lending primarily to people with little or no credit history. Home credit challenged the kagglers to unleash the full potential of their data to predict the clients repayment ability. In this project we are trying to predict the probability that a client repays the loan using 3GB home credit client data
+## 1.1 Data description
 ### (Data Source - <a href="https://www.kaggle.com/c/home-credit-default-risk/data">DATA LINK </a> , Data Size - 3GB)
 ### (<a href="https://drive.google.com/open?id=13fWkR-mqlqYcG9uv1-ABebXwP7kvuH1v">DATA</a>,  <a href="https://drive.google.com/drive/folders/1FdJc3mLMc-3hTXCkW4toVBoxi0mCQ-0U?usp=sharing">OUTPUT FILE</a>)
-## 1.1 About Data
+## 1.2 
 
 * application_train/application_test: It is the main training and testing data with information about each loan application at Home Credit. Every loan is identified by the column SK_ID_CURR. Traing data set has the column Target which specifies if the loan was repaid or not. 0 indicated loan was repaid. 1 - not repaid (Bad debts) 
 
